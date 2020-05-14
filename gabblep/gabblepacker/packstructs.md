@@ -2,6 +2,9 @@ pack table: https://github.com/irods/irods/blob/568c4fde540e8f83ccb7478af10178b0
 
 instrs to parse: https://github.com/irods/irods/blob/568c4fde540e8f83ccb7478af10178b09f9d2697/lib/core/include/rodsPackInstruct.h
 
+byte io in python: https://www.devdungeon.com/content/working-binary-data-python
+struct: https://www.journaldev.com/17401/python-struct-pack-unpack
+
 
 ### working list
 
